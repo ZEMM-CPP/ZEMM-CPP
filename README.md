@@ -36,9 +36,9 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🌀 **TempVoice Discord Bot** | Temporary voice channel generator and controller for Discord. | [🔗 Join Server](https://discord.gg/cHzyBa4Szw) |
-| 🤖 **Disboard Auto Bump** | Automatically bumps your server using Disboard. | *(Private / Closed Source)* |
-| 💬 **Discord ChatBot Selfbot** | Chat-enhanced selfbot with advanced customization. | *(Private / Self-use)* |
+| 🌀 **TempVoice Discord Bot** | Temporary voice channel generator and controller for Discord. | [🔗 Free Access](https://discord.gg/cHzyBa4Szw) |
+| 🤖 **Disboard Auto Bump** | Automatically bumps your server using Disboard. | Open source on my github |
+| 💬 **Discord ChatBot Selfbot** | Chat-enhanced selfbot with advanced customization. | Open source on my github |
 
 ---
 
