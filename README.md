@@ -54,7 +54,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://discord.com/users/665870082383282216">
+  <a href="https://discord.com/users/1302406197915291649">
     <img src="https://img.shields.io/badge/Discord-!ZEMM%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://guns.lol/z.e.m.m">
