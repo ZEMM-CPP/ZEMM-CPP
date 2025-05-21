@@ -44,10 +44,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZEMM&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEMM&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
-</div>
+
 
 ---
 
