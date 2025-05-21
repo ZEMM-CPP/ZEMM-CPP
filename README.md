@@ -43,9 +43,10 @@
 ---
 
 ### 📊 GitHub Stats
-
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZEMM&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEMM&layout=compact&theme=tokyonight&hide=c%2B%2B%2Chtml%2Ccss%2Cshell%2Cmakefile&langs_count=2&border_radius=10" width="48%" />
+</div>
 ---
 
 ### 🌐 Connect with Me
