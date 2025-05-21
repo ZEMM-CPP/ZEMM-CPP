@@ -42,17 +42,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ZEMM&show_icons=true&theme=radical&border_radius=15&hide_title=true" width="45%" />
-
-  <!-- Langages préférés : uniquement JS et Python -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEMM&hide=c%2B%2B%2Chtml%2Ccss%2Cshell%2Cmakefile&langs_count=2&layout=compact&theme=radical&border_radius=15" width="45%" />
-</div>
-
----
 
 ### 🌐 Connect with Me
 
