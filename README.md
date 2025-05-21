@@ -46,7 +46,7 @@
 
 <div align="center">
   <!-- Langages préférés : uniquement JS et Python -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEMM-CPP&hide=c%2B%2B%2Chtml%2Ccss%2Cshell%2Cmakefile&langs_count=2&layout=compact&theme=radical&border_radius=15" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEMM-CPP&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
 </div>
 
 ---
