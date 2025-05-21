@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/197918800?s=400&u=e251c6b8396be412c284af9b5edc042791faadb0&v=4" alt="Profile Banner" width="200" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/197918800?s=400&u=b9d3c70bcf0c1aed45aaaf169364199ba20fabf5&v=4" alt="Profile Banner" width="200" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hey 👋, I'm !ZEMM</h1>
