@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-- 💻 Self-taught developer: HTML/CSS, JavaScript, Python  
+- 💻 Self-taught developer: HTML/CSS, JavaScript (node js),
 - 🐧 Linux & Windows 10/11 user | Dev on Linux  
 - 🤖 Creator of smart bots like **TempVoice**, **AutoDisboardBump**, and **Selfbot ChatBot**  
 - 🌐 Website: [guns.lol/z.e.m.m](https://guns.lol/z.e.m.m)
